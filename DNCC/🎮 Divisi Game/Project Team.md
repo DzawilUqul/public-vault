@@ -8,7 +8,7 @@
 - Rifki
 
 > [!NOTE] Note
-> Tiap team membuat project tersebut (Pakai Git & GitHub)untuk BTNG beserta silabusnya (Step2 pakai ppt). Team tersebut otomatis menjadi pengajar untuk project tersebut saat BTNG .
+> Tiap team membuat project tersebut (Pakai Git & GitHub)untuk BTNG beserta silabusnya (Step2 pakai ppt). Team tersebut otomatis menjadi pengajar untuk project tersebut saat BTNG. Versi Unity yg digunakan: 2022.3.2f1
 
 
 | Minggu | Online    | Offline                              |
