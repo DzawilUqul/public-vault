@@ -1,6 +1,6 @@
 - Pertama ke folder tempat kalian pengen projectnya diclone, misal di desktop.
 - Klik kanan -> Git Bash Here 
-![](Pasted%20image%2020240903132814.png?raw=true)
+![](Pasted%20image%2020240903132814.png?raw=true|400)
 - pastekan command ini dengan link httpsnya
 ![](Pasted%20image%2020240903132608.png?raw=true)
 ```bash
