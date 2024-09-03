@@ -1,8 +1,8 @@
-## 1. Team Bhima (2D Pou Makanan Jatuh)
+## 1. Team Bhima (2D Pou Makanan Jatuh - Github Repo: Spesyeep)
 - Dzawil
 - Nando
 - Wahyu
-## 2.  Team Farhan (3D Dino Chrome)
+## 2.  Team Farhan (3D Dino Chrome - Github Repo: Project-Runner)
 - Dzawil
 - Alip
 - Rifki
